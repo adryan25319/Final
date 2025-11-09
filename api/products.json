@@ -137,6 +137,7 @@
     "name": "Smart Light Bulb",
     "description": "Color-changing LED bulb controllable via app.",
     "price": 24.99,
-    "image": "Assets/smartLightzbulb.png"
+    "image": "Assets/SmartLightBulb.png"
   }
+
 ]
